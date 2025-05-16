@@ -1,0 +1,72 @@
+{
+  "basics": {
+    "name": "Shivansh Ghelani",
+    "label": "Robotics & AI Enthusiast",
+    "email": "shivansh@email.com",
+    "url": "https://portfolio-shivansh-dev.vercel.app",
+    "summary": "Passionate about robotics and AI with hands-on experience in hardware-software integration.",
+    "location": {
+      "city": "Ahmedabad",
+      "countryCode": "IN"
+    },
+    "profiles": [
+      { "network": "GitHub", "url": "https://github.com/yourusername" },
+      { "network": "LinkedIn", "url": "https://linkedin.com/in/yourprofile" }
+    ]
+  },
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["Python", "C++", "JavaScript", "Rust"]
+    },
+    {
+      "name": "Robotics & AI",
+      "keywords": ["ESP32", "Raspberry Pi", "TensorFlow", "OpenCV"]
+    },
+    {
+      "name": "Web Development",
+      "keywords": ["React", "FastAPI", "Tailwind CSS"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "XYZ University",
+      "area": "Information Technology",
+      "studyType": "Bachelor",
+      "startDate": "2021-08-01",
+      "endDate": "2025-05-01",
+      "gpa": "8.5"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Certificate Generator",
+      "description": "Web app for dynamic certificate generation using FastAPI and PPTX.",
+      "url": "https://yourliveurl.com",
+      "keywords": ["FastAPI", "Python", "PPTX"]
+    },
+    {
+      "name": "4WD Semi-Autonomous Robot",
+      "description": "Assistive robot with camera, voice, and sensor-based control.",
+      "keywords": ["ESP32", "OpenCV", "IR Sensors"]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Intro to AI with Python",
+      "issuer": "edX (Harvard)",
+      "date": "2023-06-01"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top 5 in IoT Hackathon",
+      "date": "2024-11-01",
+      "awarder": "XYZ University"
+    }
+  ],
+  "languages": [
+    { "language": "English", "fluency": "Fluent" },
+    { "language": "Hindi", "fluency": "Native" }
+  ]
+}
